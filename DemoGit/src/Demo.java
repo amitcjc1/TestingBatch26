@@ -6,7 +6,7 @@ public class Demo
 		System.out.println("Hello Git Local");
 		System.out.println("Hello");
 		
-		System.out.println("Hello GIt Server")
+		System.out.println("Hello GIt Server");
 		
 		
 	}
